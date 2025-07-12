@@ -1,9 +1,9 @@
 package com.yupi.cli.pattern;
 
-public class Turn0nCommand implements Command {
+public class TurnOnCommand implements Command {
     private Device device;
 
-    public Turn0nCommand(Device device){
+    public TurnOnCommand(Device device){
         this.device = device;
     }
 

@@ -2,6 +2,7 @@
 # My Custom
 target
 yuzi-generator.iml
+generated
 
 # Compiled class file
 *.class
